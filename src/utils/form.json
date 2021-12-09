@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1379,
+    "cname": "消防栓是否正常",
+    "ename": "radio0",
+    "compType": 3,
+    "isRequired": 0,
+    "selfEnumVOList": [
+      { "id": 1374, "name": "是", "sort": 0, "value": "0" },
+      { "id": 1375, "name": "否", "sort": 1, "value": "1" }
+    ]
+  },
+  {
+    "id": 1380,
+    "cname": "消防栓是否老化",
+    "ename": "radio1",
+    "compType": 3,
+    "isRequired": 0,
+    "selfEnumVOList": [
+      { "id": 1376, "name": "是", "sort": 0, "value": "0" },
+      { "id": 1377, "name": "否", "sort": 1, "value": "1" }
+    ]
+  },
+  {
+    "id": 1381,
+    "cname": "消防栓安装日期",
+    "ename": "date0",
+    "compType": 7,
+    "isRequired": 1
+  }
+]
